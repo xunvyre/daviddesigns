@@ -1,0 +1,19 @@
+{
+  "name": "react-portfolio",
+  "version": "1.0.0",
+  "description": "A single-page portfolio for Victoria David.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xunvyre/daviddesigns.git"
+  },
+  "author": "Victoria David",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xunvyre/daviddesigns/issues"
+  },
+  "homepage": "https://github.com/xunvyre/daviddesigns#readme"
+}
