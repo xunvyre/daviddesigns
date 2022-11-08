@@ -6,6 +6,7 @@ import Footer from './components/Footer/Footer';
 import Header from './components/Header/Header';
 import Nav from './components/Nav/Nav';
 import Portfolio from './components/Portfolio/Portfolio';
+import Services from './components/Services/Services';
 
 const App = () =>
 {
@@ -15,6 +16,7 @@ const App = () =>
             <Nav/>
             <About/>
             <Experience/>
+            <Services/>
             <Portfolio/>
             <Contact/>
             <Footer/>
