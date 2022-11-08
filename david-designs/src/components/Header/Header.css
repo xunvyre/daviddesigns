@@ -1,0 +1,47 @@
+header
+{
+    height: 100vh;
+    padding-top: 7rem;
+    overflow: hidden;
+}
+
+.header-container
+{
+    text-align: center;
+    height: 100%;
+    position: relative;
+}
+
+.cta
+{
+    margin-top: 1.2rem;
+    display: flex;
+    justify-content: center;
+    gap: 1.2rem;
+}
+
+.header-socials
+{
+    margin: 0.5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1.2rem;
+}
+
+.header-socials::before, .header-socials::after
+{
+    content: '';
+    width: 2rem;
+    height: 1px;
+    background: var(--primary);
+}
+
+.header-container .pfp img
+{
+    width: 22rem;
+    height: 30rem;
+    position: absolute;
+    left: calc(50% - 11rem);
+    border-radius: 12rem 12rem 0 0;
+}
