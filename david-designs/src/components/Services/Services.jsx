@@ -11,29 +11,6 @@ const Services = () =>
             <div className="container services-container">
                 <article className="service">
                     <div className="service-header">
-                        <h3>Art by Commission</h3>
-                    </div>
-                    <ul className="service-list">
-                        <li>
-                            <BiCheck className="service-list-icon"/>
-                            <p>Digital and Traditional Media</p>
-                        </li>
-                        <li>
-                            <BiCheck className="service-list-icon"/>
-                            <p>Per-Request Design Consultation</p>
-                        </li>
-                        <li>
-                            <BiCheck className="service-list-icon"/>
-                            <p>Character Concepts and References</p>
-                        </li>
-                        <li>
-                            <BiCheck className="service-list-icon"/>
-                            <p>From Sketches to Sculptures</p>
-                        </li>
-                    </ul>
-                </article>
-                <article className="service">
-                    <div className="service-header">
                         <h3>Graphic Design</h3>
                     </div>
                     <ul className="service-list">
@@ -75,6 +52,29 @@ const Services = () =>
                         <li>
                             <BiCheck className="service-list-icon"/>
                             <p>Featuring Custom Assets and Edited Photos!</p>
+                        </li>
+                    </ul>
+                </article>
+                <article className="service">
+                    <div className="service-header">
+                        <h3>Art by Commission</h3>
+                    </div>
+                    <ul className="service-list">
+                        <li>
+                            <BiCheck className="service-list-icon"/>
+                            <p>Digital and Traditional Media</p>
+                        </li>
+                        <li>
+                            <BiCheck className="service-list-icon"/>
+                            <p>Per-Request Design Consultation</p>
+                        </li>
+                        <li>
+                            <BiCheck className="service-list-icon"/>
+                            <p>Character Concepts and References</p>
+                        </li>
+                        <li>
+                            <BiCheck className="service-list-icon"/>
+                            <p>From Sketches to Sculptures</p>
                         </li>
                     </ul>
                 </article>
