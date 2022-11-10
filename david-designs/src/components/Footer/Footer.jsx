@@ -8,7 +8,7 @@ const Footer = () =>
 {
     return(
         <footer>
-            <a href="#home" className="footer-logo">David Designs</a>
+            <a href="#home" className="footer-logo accent">David Designs</a>
             <ul className="footer-socials">
                 <li><a href="https://www.linkedin.com/in/victoria-david-a163b8161/" target="_blank" rel="noreferrer"><BsLinkedin/></a></li>
                 <li><a href="https://github.com/xunvyre" target="_blank" rel="noreferrer"><BsGithub/></a></li>
