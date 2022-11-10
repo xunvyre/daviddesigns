@@ -38,7 +38,6 @@
 .about-card
 {
     background: var(--bg-var);
-    border: 1px solid transparent;
     border-radius: 1rem;
     padding: 2rem;
     text-align: center;
@@ -47,8 +46,7 @@
 
 .about-card:hover
 {
-    background: transparent;
-    border-color: var(--primary-var);
+    background: var(--primary-var);
 }
 
 .about-icon
