@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/daviddesigns/static/css/main.ae736ba6.css",
+    "main.js": "/daviddesigns/static/js/main.06d0511d.js",
+    "static/media/sleepSpaceBG.png": "/daviddesigns/static/media/sleepSpaceBG.b0c81fe5c03a0186b13e.png",
+    "static/media/ambiguous copy.png": "/daviddesigns/static/media/ambiguous copy.e7dd8786fbf452ed3372.png",
+    "static/media/Victoria-David-resume.pdf": "/daviddesigns/static/media/Victoria-David-resume.e8ebf4e3b9c86f9cf026.pdf",
+    "static/media/guinea-pig.jpg": "/daviddesigns/static/media/guinea-pig.01580b219e8ace9fb12d.jpg",
+    "static/media/pfp.jpg": "/daviddesigns/static/media/pfp.cdf2db067957c8d6e1f6.jpg",
+    "static/media/journify-new-journal.png": "/daviddesigns/static/media/journify-new-journal.e5fd878341346e85352c.png",
+    "static/media/forecaster.jpg": "/daviddesigns/static/media/forecaster.374e58953ccc4389f5d8.jpg",
+    "static/media/well-actually.jpg": "/daviddesigns/static/media/well-actually.627ac1f5bddd2147f4b3.jpg",
+    "index.html": "/daviddesigns/index.html",
+    "main.ae736ba6.css.map": "/daviddesigns/static/css/main.ae736ba6.css.map",
+    "main.06d0511d.js.map": "/daviddesigns/static/js/main.06d0511d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae736ba6.css",
+    "static/js/main.06d0511d.js"
+  ]
+}
