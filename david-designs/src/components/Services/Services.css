@@ -9,16 +9,8 @@
 {
     background: var(--bg-var);
     border-radius: 0 0 2rem 2rem;
-    border: 1px solid var(--primary);
     height: fit-content;
     transition: var(--transition);
-}
-
-.service:hover
-{
-    background: transparent;
-    border-color: var(--primary-var);
-    cursor: default;
 }
 
 .service-header
@@ -31,7 +23,7 @@
 
 .service-header h3
 {
-    color: var(--bg);
+    color: var(--bg-var);
     text-align: center;
 }
 

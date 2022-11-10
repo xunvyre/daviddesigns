@@ -10,7 +10,6 @@
     background: var(--bg-var);
     padding: 1.2rem;
     border-radius: 2rem;
-    border: 1px solid transparent;
     transition: var(--transition);
 }
 
@@ -19,10 +18,14 @@
     width: fit-content;
 }
 
+.swiper-button-next, .swiper-button-prev
+{
+    color: var(--primary-var);
+}
+
 .portfolio-item:hover
 {
-    border-color: var(--primary-var);
-    background: transparent;
+    background: var(--primary-var);
 }
 
 .portfolio-item-img

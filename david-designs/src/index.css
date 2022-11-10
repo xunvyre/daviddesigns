@@ -11,12 +11,12 @@
 
 :root
 {
-    --bg: #1f1f38;
-    --bg-var: #2c2c6c;
-    --primary: #4db5ff;
-    --primary-var: rgba(77,181,255,0.4);
-    --white: #fff;
-    --color-light: rgba(255,255,255,0.6);
+    --bg: #958791;
+    --bg-var: #512940;
+    --primary: #ffbecd;
+    --primary-var: #9c3560;
+    --white: #f2eef2;
+    --color-light: rgba(255,255,255,0.75);
 
     --container-width-lg: 75%;
     --container-width-md: 86%;
@@ -36,6 +36,12 @@ body
     background: var(--bg);
     color: var(--white);
     line-height: 1.7;
+}
+
+.accent
+{
+    font-family: 'WindSong';
+    font-size: 3rem;
 }
 
 /* general styles */

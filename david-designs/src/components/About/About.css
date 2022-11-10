@@ -77,6 +77,11 @@
     line-height: 1.4rem;
 }
 
+.about-content p span
+{
+    color: var(--primary);
+}
+
 /* tablet queries */
 @media screen and (max-width: 1024px)
 {

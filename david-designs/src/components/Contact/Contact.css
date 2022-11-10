@@ -11,14 +11,24 @@
     padding: 1.2rem;
     border-radius: 1.2rem;
     text-align: center;
-    border: 1px solid transparent;
     transition: var(--transition);
 }
 
 .contact-option:hover
 {
-    background: transparent;
-    border-color: var(--primary-var);
+    background: var(--primary-var);
+}
+
+.contact-option a
+{
+    transition: var(--transition);
+}
+
+.contact-option a:hover
+{
+    color: var(--bg-var);
+    font-weight: 500;
+    letter-spacing: 0.1rem;
 }
 
 .contact-option-icon
@@ -32,24 +42,6 @@
     margin-top: 0.5rem;
     display: inline-block;
     font-size: 0.8rem;
-}
-
-form
-{
-    display: flex;
-    flex-direction: column;
-    gap: 1.2rem;
-}
-
-input, textarea
-{
-    width: 100%;
-    padding: 1.5rem;
-    border-radius: 0.5rem;
-    background: transparent;
-    border: 2px solid var(--primary-var);
-    resize: none;
-    color: var(--white);
 }
 
 /* phone queries */

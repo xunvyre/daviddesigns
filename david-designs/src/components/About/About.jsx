@@ -10,7 +10,7 @@ const About = () =>
     return (
         <section id="about">
             <h5>The Person Behind the Screen</h5>
-            <h2>About Me</h2>
+            <h2 className="accent">About Me</h2>
             <div className="container about-container">
                 <div className="about-me">
                     <img src={ME} alt="A person with glasses looking up toward the camera." />
@@ -39,7 +39,7 @@ const About = () =>
                         You never know where life will take you!
                         <br /><br />
                         I have a passion for crisp lines, tiny sculptures, clean code, and native wildlife. 
-                        In addition to the color pink, I draw influence from a family history in Computer Science, growing up with Disney and Studio Ghibli, and my love for nature.
+                        In addition to the color <span>pink</span>, I draw influence from a family history in Computer Science, growing up with Disney and Studio Ghibli, and my love for nature.
                         <br /><br />
                         I currently reside in sunny Florida with my best friend, nine fat guinea pigs, and our expanding collection of fish. 
                         When I'm not working or creating, I love to unwind with good food, tea, and video games. 

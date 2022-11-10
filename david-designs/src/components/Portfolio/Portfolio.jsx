@@ -70,7 +70,7 @@ const Portfolio = () =>
     return (
       <section id="portfolio">
           <h5>A Collection of Works</h5>
-          <h2>My Portfolio</h2>
+          <h2 className="accent">My Portfolio</h2>
           <Swiper 
             navigation={true}
             modules={[Navigation]}
