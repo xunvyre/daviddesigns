@@ -7,7 +7,7 @@ This is a single-page, REACT library based portfolio to send to potential client
 * [Future Development](https://github.com/xunvyre/daviddesigns#future-development)
 * [Credits](https://github.com/xunvyre/daviddesigns#credits)
 ## Usage
-![A screenshot of a portfolio website that details work experience.](./david-designs/src/assets/Screenshot%202022-11-10%20014557.jpg)
+![A screenshot of a portfolio website that details work experience.](./src/assets/Screenshot%202022-11-10%20014557.jpg)
 ## Future Development
 Aside from needing to code a new design portfolio, this project is done.
 ## Credits
