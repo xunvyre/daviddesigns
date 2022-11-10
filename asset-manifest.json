@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/daviddesigns/static/css/main.ae736ba6.css",
+    "main.css": "/daviddesigns/static/css/main.4190132e.css",
     "main.js": "/daviddesigns/static/js/main.06d0511d.js",
     "static/media/sleepSpaceBG.png": "/daviddesigns/static/media/sleepSpaceBG.b0c81fe5c03a0186b13e.png",
     "static/media/ambiguous copy.png": "/daviddesigns/static/media/ambiguous copy.e7dd8786fbf452ed3372.png",
@@ -11,11 +11,11 @@
     "static/media/forecaster.jpg": "/daviddesigns/static/media/forecaster.374e58953ccc4389f5d8.jpg",
     "static/media/well-actually.jpg": "/daviddesigns/static/media/well-actually.627ac1f5bddd2147f4b3.jpg",
     "index.html": "/daviddesigns/index.html",
-    "main.ae736ba6.css.map": "/daviddesigns/static/css/main.ae736ba6.css.map",
+    "main.4190132e.css.map": "/daviddesigns/static/css/main.4190132e.css.map",
     "main.06d0511d.js.map": "/daviddesigns/static/js/main.06d0511d.js.map"
   },
   "entrypoints": [
-    "static/css/main.ae736ba6.css",
+    "static/css/main.4190132e.css",
     "static/js/main.06d0511d.js"
   ]
 }
