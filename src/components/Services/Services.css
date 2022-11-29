@@ -68,6 +68,10 @@
 /* phone queries */
 @media screen and (max-width: 600px)
 {
+    section h2
+    {
+        padding: 5px;
+    }
     .services-container
     {
         grid-template-columns: 1fr;
