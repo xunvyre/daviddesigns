@@ -79,3 +79,12 @@
         padding: 2rem 1rem;
     }
 }
+
+/* em queries */
+@media screen and (max-width: 375px)
+{
+    .experience-content
+    {
+        grid-template-columns: 1fr;
+    }
+}

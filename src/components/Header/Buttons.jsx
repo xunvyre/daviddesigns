@@ -1,5 +1,5 @@
 import React from 'react';
-import CV from '../../assets/Victoria-David-resume.pdf';
+import CV from '../../assets/Victoria David.pdf';
 
 const Buttons = () =>
 {
