@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/daviddesigns/static/css/main.19d4d3a8.css",
-    "main.js": "/daviddesigns/static/js/main.6e76dae7.js",
+    "main.js": "/daviddesigns/static/js/main.9622931f.js",
     "static/media/sleepSpaceBG.png": "/daviddesigns/static/media/sleepSpaceBG.b0c81fe5c03a0186b13e.png",
     "static/media/ambiguous copy.png": "/daviddesigns/static/media/ambiguous copy.e7dd8786fbf452ed3372.png",
     "static/media/guinea-pig.jpg": "/daviddesigns/static/media/guinea-pig.01580b219e8ace9fb12d.jpg",
@@ -12,10 +12,10 @@
     "static/media/Victoria David.pdf": "/daviddesigns/static/media/Victoria David.a390737ccf88c0ce8a5c.pdf",
     "index.html": "/daviddesigns/index.html",
     "main.19d4d3a8.css.map": "/daviddesigns/static/css/main.19d4d3a8.css.map",
-    "main.6e76dae7.js.map": "/daviddesigns/static/js/main.6e76dae7.js.map"
+    "main.9622931f.js.map": "/daviddesigns/static/js/main.9622931f.js.map"
   },
   "entrypoints": [
     "static/css/main.19d4d3a8.css",
-    "static/js/main.6e76dae7.js"
+    "static/js/main.9622931f.js"
   ]
 }
