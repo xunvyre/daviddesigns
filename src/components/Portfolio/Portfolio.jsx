@@ -34,7 +34,7 @@ const data =
     title: "JOURNIFY",
     desc: "Node.js, MySQL, MVC",
     github: "https://github.com/xunvyre/journify",
-    demo: "https://your-journify.herokuapp.com/login",
+    demo: "Offline",
   },
   {
     id: 3,
@@ -43,7 +43,7 @@ const data =
     title: "Well, Actually",
     desc: "HTML, CSS, Node.js",
     github: "https://github.com/xunvyre/tech-blogging",
-    demo: "https://nameless-chamber-56155.herokuapp.com/",
+    demo: "Offline",
   },
   {
     id: 4,
@@ -75,7 +75,7 @@ const Portfolio = () =>
             navigation={true}
             modules={[Navigation]}
             slidesPerView='auto'
-            spaceBetween={30}
+            spaceBetween={10}
             className="container portfolio-container mySwiper"
           >
               {
